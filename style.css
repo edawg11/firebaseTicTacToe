@@ -1,0 +1,17 @@
+.board {
+	height: 300px;
+	width: 300px;
+	background-color: gray;
+	margin-top: 20px;
+
+}
+
+.piece {
+	background-color: red;
+	height: 100%;
+	border: 1px solid black;
+}
+
+.one{
+	height: 33.3%;
+}
